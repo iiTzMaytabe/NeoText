@@ -1,0 +1,5 @@
+{
+  "name": "Copy of NeonScribe",
+  "description": "A futuristic mobile-first application that converts handwritten drawings into digital text using Gemini Vision capabilities.",
+  "requestFramePermissions": []
+}
